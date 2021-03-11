@@ -18,6 +18,8 @@ public class Test {
 
 		Test t = new Test();
 		t.callOtherCls();
+		//This is a test for another account's update
+		System.out.println("Updated by mozart@mbk.nifty.com");
 	}
 }
 
